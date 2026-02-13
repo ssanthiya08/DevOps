@@ -1,0 +1,17 @@
+1  ls
+    2  rm pods.yaml 
+    3  ls
+    4  vi main.tf
+    5  terraform --version
+    6  terraform version
+    7  which terraform
+    8  sudo yum install -y yum-utils
+    9  sudo yum -y install terraform
+   10  wget https://releases.hashicorp.com/terraform/1.6.6/terraform_1.6.6_linux_amd64.zip
+   11  unzip terraform_1.6.6_linux_amd64.zip
+   12  sudo yum install -y unzip
+   13  sudo mv terraform /usr/local/bin/
+   14  terraform --version
+   15  history
+
+
