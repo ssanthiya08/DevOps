@@ -1,3 +1,5 @@
+
+
 1  ls
     2  rm pods.yaml 
     3  ls
@@ -13,6 +15,7 @@
    13  sudo mv terraform /usr/local/bin/
    14  terraform --version
    15  histor
+
 
 
 
