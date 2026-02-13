@@ -4,7 +4,6 @@
     4  vi main.tf
     5  terraform --version
     6  terraform version
-
     7  which terraform
     8  sudo yum install -y yum-utils
     9  sudo yum -y install terraform
@@ -14,6 +13,7 @@
    13  sudo mv terraform /us/local/bin/
    14  terraform --version
    15  histor
+
 
 
 
