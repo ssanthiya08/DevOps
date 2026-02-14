@@ -12,7 +12,9 @@
    12  sudo yum install -y unzip
    13  sudo mv terraform /us/local/bin/
    14  terraform --version
+
    15  histor
+
 
 
 
